@@ -22,10 +22,10 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 define('DB_NAME', 'wordpress');
 
 /** MySQL database username */
-define('DB_USER', 'wp');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', 'rootpass');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
